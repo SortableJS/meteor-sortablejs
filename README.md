@@ -7,11 +7,10 @@ backed by [Meteor.js](http://meteor.com) collections:
 
 Demo: http://rubaxa-sortable.meteor.com
 
-
 # Issues
 
+<b>THIS PROJECT NEEDS A MAINTAINER.</b><br/>
 <s>If you encounter an issue while using this package, please CC @dandv when you file it in this repo.</s>
-<b>This project needs a maintainer.</b>
 
 
 # Meteor
